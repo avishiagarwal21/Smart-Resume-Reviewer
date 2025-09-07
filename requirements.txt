@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+docx2txt
+scikit-learn
+textstat
+rapidfuzz
+spacy

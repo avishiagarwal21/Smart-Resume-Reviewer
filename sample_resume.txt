@@ -1,0 +1,14 @@
+John Doe
+Email: john.doe@example.com
+Phone: +91 9876543210
+
+Education:
+B.Tech in Computer Science, XYZ University, 2022
+
+Skills:
+Python, Java, SQL, Data Structures, Machine Learning
+
+Experience:
+- Developed a web app using React and Node.js
+- Created machine learning models for classification tasks
+- Managed a small team project using GitHub and Agile methodology
